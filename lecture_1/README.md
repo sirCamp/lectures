@@ -1,4 +1,4 @@
-### Argument of the lecture
+### Arguments of the lecture
 
 + Parallel computation with exercise
 + Distribute computation with exercise
