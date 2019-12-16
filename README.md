@@ -1,6 +1,6 @@
 #Management and Analysis of Physics Datasets @UniPD
-Role: Assistant Professor
-Lectures for laboratorory of Management and Analysis of Physics Datasets course of Msc in Physic of Data @UniPD
+Role: Teaching Assistant
+Lectures for laboratorory of Management and Analysis of Physics Datasets course of Msc in Physic of Data @UniPD 2018-2019
 
 
 ## Lecture 1
